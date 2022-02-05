@@ -1,0 +1,8 @@
+{
+  "headers":{
+    "/*":{
+      "X-Author": sergey290601,
+      "Access-Control-Allow-Origin": *
+    }
+  }
+}
